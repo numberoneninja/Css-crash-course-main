@@ -1,0 +1,25 @@
+body{
+    background-color: #f4f4f4;
+    color: #555;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: rgb(46, 3, 3);
+    color: #fff;
+    border: 5px rgb(116, 116, 116) solid;
+    padding: 10px; ;
+}
+
+.box-1 h1{
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+}
